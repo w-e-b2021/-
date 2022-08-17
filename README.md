@@ -17,6 +17,8 @@
 
 #### 使用说明
 
+
+```
 # 安装依赖
 npm install
 
@@ -28,6 +30,8 @@ npm run start
 
 # 构建生产环境
 npm run build
+```
+
 
 
 #### 特技
