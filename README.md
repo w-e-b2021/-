@@ -11,24 +11,24 @@
 
 
 
-#### 安装教程
+#### 体验地址
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+暂无
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+# 安装依赖
+npm install
 
-#### 参与贡献
+# 启动json-server
+npm run json-server
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+# 启动服务 
+npm run start
+
+# 构建生产环境
+npm run build
+
 
 #### 特技
 
