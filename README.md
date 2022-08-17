@@ -35,10 +35,10 @@ npm run build
 
 
 #### 技术栈
-1、react 18.x
-2、react-roter-dom 5.x
-3、react-dom
-4、ant
-5、axios
-6、react-redux 8.x
+1. react 18.x
+2. react-roter-dom 5.x
+3. react-dom
+1. ant
+1. axios
+1. react-redux 8.x
 
