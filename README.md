@@ -7,8 +7,8 @@
 #### 项目源码
 
 | github | https://github.com/w-e-b2021/-.git |
-| 码云 | https://gitee.com/tianxiaodao/news-background-management.git |
 |----|--------------------------------------------------------------|
+| 码云 | https://gitee.com/tianxiaodao/news-background-management.git |
 
 
 
