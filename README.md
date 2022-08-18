@@ -42,3 +42,11 @@ npm run build
 1. axios
 1. react-redux 8.x
 
+#### 预览
+`超管：admin 123456`
+![输入图片说明](static/login.png)
+![输入图片说明](static/home.png)
+![输入图片说明](static/user.png)
+![输入图片说明](static/audit.png)
+![输入图片说明](static/ww.png)
+![输入图片说明](static/news.png)
